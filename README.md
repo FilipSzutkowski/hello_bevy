@@ -2,6 +2,8 @@
 
 Setting up as easy as creating new cargo project, adding Bevy as dependancy.
 
+`cargo run` is enough to run this thing :)
+
 # Compile with Performance Optimisation
 
 ```toml
